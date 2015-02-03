@@ -1,10 +1,10 @@
 package com.ewyboy.floatingrails.Main;
 
+import com.ewyboy.floatingrails.Configs.Config;
 import com.ewyboy.floatingrails.Content.Technical.BlocksAndItems;
 import com.ewyboy.floatingrails.Crafting.CraftingRecipes;
 import com.ewyboy.floatingrails.CreativeTabs.FloatingRailCreativeTab;
 import com.ewyboy.floatingrails.Info.ModInfo;
-import com.ewyboy.floatingrails.Network.ClientProxy;
 import com.ewyboy.floatingrails.Network.CommonProxy;
 import com.ewyboy.floatingrails.Rails.Technical.Rails;
 import com.ewyboy.floatingrails.Utillity.LogHelper;
@@ -13,7 +13,6 @@ import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.common.MinecraftForge;
 
 @Mod(modid = ModInfo.ID, name = ModInfo.Name, version = ModInfo.Version)
@@ -29,6 +28,7 @@ public class FloatingRails {
     @Mod.EventHandler
     public void preInit (FMLPreInitializationEvent event) {
         LogHelper.info("Pre Initialization Complete!");
+        Config.init(event.getSuggestedConfigurationFile());
     }
 
     @Mod.EventHandler

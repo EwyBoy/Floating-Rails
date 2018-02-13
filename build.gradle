@@ -1,0 +1,48 @@
+buildscript {
+    repositories {
+        jcenter()
+        maven { url = "http://files.minecraftforge.net/maven" }
+    }
+    dependencies {
+        classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
+    }
+}
+
+apply plugin: 'net.minecraftforge.gradle.forge'
+
+version = "2.0.0-1.12.2"
+group = "com.ewyboy.floatingrails"
+archivesBaseName = "Floating-Rails"
+
+sourceCompatibility = targetCompatibility = '1.8'
+compileJava {
+    sourceCompatibility = targetCompatibility = '1.8'
+}
+
+minecraft {
+    version = "1.12.2-14.23.1.2600"
+    runDir = "run"
+    mappings = "snapshot_20171003"
+}
+
+repositories {  
+    maven {url "http://tehnut.info/maven"}
+}
+
+dependencies {
+    deobfCompile "mcp.mobius.waila:Hwyla:1.8.20-B35_1.12"
+}
+
+processResources {
+    inputs.property "version", project.version
+    inputs.property "mcversion", project.minecraft.version
+
+    from(sourceSets.main.resources.srcDirs) {
+        include 'mcmod.info'
+        expand 'version':project.version, 'mcversion':project.minecraft.version
+    }
+        
+    from(sourceSets.main.resources.srcDirs) {
+        exclude 'mcmod.info'
+    }
+}

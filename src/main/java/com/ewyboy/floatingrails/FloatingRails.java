@@ -11,7 +11,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import static com.ewyboy.floatingrails.Reference.Info.*;
 import static com.ewyboy.floatingrails.Reference.Path.*;
 
-@Mod(modid = MODID, name = NAME, version = VERSION)
+@Mod(modid = MODID, name = NAME, version = VERSION, dependencies = DEPENDENCIES)
 public class FloatingRails {
 
     @Mod.Instance(MODID)

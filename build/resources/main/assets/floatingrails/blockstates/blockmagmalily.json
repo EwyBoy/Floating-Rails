@@ -1,0 +1,12 @@
+{
+  "forge_marker": 1,
+  "variants": {
+      "normal": [
+      { "model": "floatingrails:blockmagmalily" },
+      { "model": "floatingrails:blockmagmalily", "y": 90 },
+      { "model": "floatingrails:blockmagmalily", "y": 180 },
+      { "model": "floatingrails:blockmagmalily", "y": 270 }
+      ],
+    "inventory": [{}]
+  }
+}

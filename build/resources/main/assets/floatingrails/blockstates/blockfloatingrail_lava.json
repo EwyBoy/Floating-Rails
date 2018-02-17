@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "shape=north_south": { "model": "floatingrails:normal_rail_flat_lava" },
+    "shape=east_west": { "model": "floatingrails:normal_rail_flat_lava", "y": 90 },
+    "shape=ascending_east": { "model": "floatingrails:normal_rail_raised_ne_lava", "y": 90 },
+    "shape=ascending_west": { "model": "floatingrails:normal_rail_raised_sw_lava", "y": 90 },
+    "shape=ascending_north": { "model": "floatingrails:normal_rail_raised_ne_lava" },
+    "shape=ascending_south": { "model": "floatingrails:normal_rail_raised_sw_lava" },
+    "shape=south_east": { "model": "floatingrails:normal_rail_curved_lava" },
+    "shape=south_west": { "model": "floatingrails:normal_rail_curved_lava", "y": 90 },
+    "shape=north_west": { "model": "floatingrails:normal_rail_curved_lava", "y": 180 },
+    "shape=north_east": { "model": "floatingrails:normal_rail_curved_lava", "y": 270 }
+  }
+}

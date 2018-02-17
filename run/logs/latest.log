@@ -1,0 +1,132 @@
+[16:22:37] [main/INFO]: Extra: []
+[16:22:37] [main/INFO]: Running with arguments: [--tweakClass, net.minecraftforge.fml.common.launcher.FMLServerTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:22:37] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:22:37] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:22:37] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:22:37] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:23:03] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[16:23:14] [Server thread/INFO]: Loading properties
+[16:23:15] [Server thread/INFO]: Default game type: CREATIVE
+[16:23:15] [Server thread/INFO]: Generating keypair
+[16:23:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:23:15] [Server thread/INFO]: Using default channel type
+[16:23:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:23:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:23:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:23:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:23:19] [Server thread/INFO]: Preparing level "world"
+[16:23:22] [Server thread/INFO]: Loaded 488 advancements
+[16:23:24] [Server thread/INFO]: Preparing start region for level 0
+[16:23:25] [Server thread/INFO]: Preparing spawn area: 3%
+[16:23:26] [Server thread/INFO]: Preparing spawn area: 4%
+[16:23:27] [Server thread/INFO]: Preparing spawn area: 6%
+[16:23:28] [Server thread/INFO]: Preparing spawn area: 8%
+[16:23:29] [Server thread/INFO]: Preparing spawn area: 9%
+[16:23:30] [Server thread/INFO]: Preparing spawn area: 12%
+[16:23:31] [Server thread/INFO]: Preparing spawn area: 15%
+[16:23:32] [Server thread/INFO]: Preparing spawn area: 18%
+[16:23:33] [Server thread/INFO]: Preparing spawn area: 21%
+[16:23:34] [Server thread/INFO]: Preparing spawn area: 24%
+[16:23:35] [Server thread/INFO]: Preparing spawn area: 26%
+[16:23:36] [Server thread/INFO]: Preparing spawn area: 29%
+[16:23:37] [Server thread/INFO]: Preparing spawn area: 32%
+[16:23:38] [Server thread/INFO]: Preparing spawn area: 36%
+[16:23:39] [Server thread/INFO]: Preparing spawn area: 39%
+[16:23:40] [Server thread/INFO]: Preparing spawn area: 42%
+[16:23:41] [Server thread/INFO]: Preparing spawn area: 44%
+[16:23:43] [Server thread/INFO]: Preparing spawn area: 48%
+[16:23:44] [Server thread/INFO]: Preparing spawn area: 51%
+[16:23:45] [Server thread/INFO]: Preparing spawn area: 54%
+[16:23:46] [Server thread/INFO]: Preparing spawn area: 56%
+[16:23:47] [Server thread/INFO]: Preparing spawn area: 58%
+[16:23:48] [Server thread/INFO]: Preparing spawn area: 60%
+[16:23:49] [Server thread/INFO]: Preparing spawn area: 62%
+[16:23:50] [Server thread/INFO]: Preparing spawn area: 64%
+[16:23:51] [Server thread/INFO]: Preparing spawn area: 65%
+[16:23:52] [Server thread/INFO]: Preparing spawn area: 68%
+[16:23:53] [Server thread/INFO]: Preparing spawn area: 70%
+[16:23:54] [Server thread/INFO]: Preparing spawn area: 73%
+[16:23:55] [Server thread/INFO]: Preparing spawn area: 77%
+[16:23:56] [Server thread/INFO]: Preparing spawn area: 80%
+[16:23:57] [Server thread/INFO]: Preparing spawn area: 85%
+[16:23:58] [Server thread/INFO]: Preparing spawn area: 89%
+[16:23:59] [Server thread/INFO]: Preparing spawn area: 94%
+[16:24:01] [Server thread/INFO]: Preparing spawn area: 98%
+[16:24:01] [Server thread/INFO]: Done (41,544s)! For help, type "help" or "?"
+[16:24:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2949ms behind, skipping 58 tick(s)
+[16:24:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5472ms behind, skipping 109 tick(s)
+[16:24:55] [Server thread/INFO]: Player484[/127.0.0.1:50551] logged in with entity id 3417 at (-174.5, 67.0, 252.5)
+[16:24:55] [Server thread/INFO]: Player484 joined the game
+[16:25:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18844ms behind, skipping 376 tick(s)
+[16:25:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2537ms behind, skipping 50 tick(s)
+[16:25:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2999ms behind, skipping 59 tick(s)
+[16:26:21] [Server thread/INFO]: Player484 lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[16:26:21] [Server thread/INFO]: Player484 left the game
+[16:26:26] [Server thread/INFO]: Stopping the server
+[16:26:26] [Server thread/INFO]: Stopping server
+[16:26:26] [Server thread/INFO]: Saving players
+[16:26:26] [Server thread/INFO]: Saving worlds
+[16:26:26] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[16:26:26] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[16:26:26] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[16:26:27] [Server Shutdown Thread/INFO]: Stopping server
+[16:26:27] [Server Shutdown Thread/INFO]: Saving players
+[16:26:27] [Server Shutdown Thread/INFO]: Saving worlds
+FileResourcePack:Floating Rails, FMLFileResourcePack:Waila, FMLFileResourcePack:Bibliotheca
+[16:23:17] [main/INFO]: Processing ObjectHolder annotations
+[16:23:17] [main/INFO]: Found 1168 ObjectHolder annotations
+[16:23:17] [main/INFO]: Identifying ItemStackHolder annotations
+[16:23:17] [main/INFO]: Found 0 ItemStackHolder annotations
+[16:23:18] [main/INFO]: Configured a dormant chunk cache size of 0
+[16:23:18] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[16:23:18] [main/INFO]: [BLOCK]: tile.floatingrails.blockfloatingrail has been registered by Bibliotheca for the mod floatingrails
+[16:23:18] [main/INFO]: [ITEM|BLOCK]: tile.floatingrails.blockfloatingrail | floatingrails:blockfloatingrail has been registered by Bibliotheca for the mod floatingrails
+[16:23:18] [main/INFO]: [BLOCK]: tile.floatingrails.blockfloatingrail_lava has been registered by Bibliotheca for the mod floatingrails
+[16:23:18] [main/INFO]: [ITEM|BLOCK]: tile.floatingrails.blockfloatingrail_lava | floatingrails:blockfloatingrail_lava has been registered by Bibliotheca for the mod floatingrails
+[16:23:18] [main/INFO]: [BLOCK]: tile.floatingrails.blockmagmalily has been registered by Bibliotheca for the mod floatingrails
+[16:23:18] [main/INFO]: [ITEM|BLOCK]: tile.floatingrails.blockmagmalily | floatingrails:blockmagmalily has been registered by Bibliotheca for the mod floatingrails
+[16:23:18] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Target: 14.23.2.2611
+[16:23:19] [main/INFO]: Applying holder lookups
+[16:23:19] [main/INFO]: Holder lookups applied
+[16:23:19] [main/INFO]: Applying holder lookups
+[16:23:19] [main/INFO]: Holder lookups applied
+[16:23:19] [main/INFO]: Applying holder lookups
+[16:23:19] [main/INFO]: Holder lookups applied
+[16:23:19] [main/INFO]: Applying holder lookups
+[16:23:19] [main/INFO]: Holder lookups applied
+[16:23:19] [main/INFO]: Injecting itemstacks
+[16:23:19] [main/INFO]: Itemstack injection complete
+[16:23:33] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:23:34] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[16:23:34] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:23:34] [Thread-5/INFO]: OpenAL initialized.
+[16:23:34] [Sound Library Loader/INFO]: Sound engine started
+[16:23:45] [main/INFO]: Max texture size: 16384
+[16:23:45] [main/INFO]: Created: 512x512 textures-atlas
+[16:23:51] [main/INFO]: Applying holder lookups
+[16:23:51] [main/INFO]: Holder lookups applied
+[16:23:51] [main/INFO]: Receiving registration request from [ floatingrails ] for method com.ewyboy.bibliotheca.common.compatibilities.waila.WailaCompatibility.load
+[16:23:51] [main/INFO]: Injecting itemstacks
+[16:23:51] [main/INFO]: Itemstack injection complete
+[16:23:51] [main/INFO]: Attempting to register plugin for anything from mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[16:23:51] [main/INFO]: Registered plugin for anything from mcp.mobius.waila.addons.minecraft.PluginMinecraft in 63.78 ms
+[16:23:51] [main/INFO]: Attempting to register plugin for anything from mcp.mobius.waila.addons.capability.PluginCapability
+[16:23:51] [main/INFO]: Registered plugin for anything from mcp.mobius.waila.addons.capability.PluginCapability in 20.81 ms
+[16:23:51] [main/INFO]: Trying to reflect com.ewyboy.bibliotheca.common.compatibilities.waila.WailaCompatibility load
+[16:23:51] [main/INFO]: Success in registering floatingrails
+[16:23:51] [main/INFO]: Forge Mod Loader has successfully loaded 7 mods
+[16:23:51] [main/WARN]: Skipping bad option: lastServer:
+[16:23:52] [main/INFO]: Narrator library for x64 successfully loaded
+[16:23:53] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:24:47] [main/INFO]: Connecting to localhost, 25565
+[16:24:54] [Netty Client IO #1/INFO]: Server protocol version 2
+[16:24:54] [Netty Client IO #1/INFO]: Injecting existing registry data into this client instance
+[16:24:55] [Netty Client IO #1/INFO]: Applying holder lookups
+[16:24:55] [Netty Client IO #1/INFO]: Holder lookups applied
+[16:24:55] [Netty Client IO #1/INFO]: [Netty Client IO #1] Client side modded connection established
+[16:24:58] [Netty Client IO #1/INFO]: Received server authentication msg. Remote sync will be activated
+[16:25:44] [main/INFO]: Loaded 6 advancements
+[16:25:47] [main/INFO]: Loaded 12 advancements
+[16:26:20] [main/INFO]: Stopping!
+[16:26:20] [main/INFO]: SoundSystem shutting down...
+[16:26:20] [main/WARN]: Author: Paul Lamb, www.paulscode.com

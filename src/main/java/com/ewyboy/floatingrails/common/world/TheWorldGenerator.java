@@ -1,6 +1,7 @@
 package com.ewyboy.floatingrails.common.world;
 
 import com.ewyboy.bibliotheca.common.world.WorldGenUtilities;
+import com.ewyboy.floatingrails.common.loaders.ConfigLoader;
 import net.minecraft.world.World;
 import net.minecraft.world.chunk.IChunkProvider;
 import net.minecraft.world.gen.IChunkGenerator;
@@ -28,10 +29,10 @@ public class TheWorldGenerator implements IWorldGenerator {
     private WorldGenerator magmalilyGen = new MagmalilyGenerator();
 
     private void generateWorld(World world, Random random, int blockX, int blockZ) {
-        WorldGenUtilities.generate(magmalilyGen, world, random, blockX, blockZ, 0, 4, 12);
+        WorldGenUtilities.generate(magmalilyGen, world, random, blockX, blockZ, 0, ConfigLoader.spawnRateMagmaLilyMin, ConfigLoader.spawnRateMagmaLilyMax);
     }
 
     private void generateNether(World world, Random random, int blockX, int blockZ) {
-        WorldGenUtilities.generate(magmalilyGen, world, random, blockX, blockZ, 0, 4, 12);
+        WorldGenUtilities.generate(magmalilyGen, world, random, blockX, blockZ, 0, ConfigLoader.spawnRateMagmaLilyMin, ConfigLoader.spawnRateMagmaLilyMax);
     }
 }

@@ -6,6 +6,7 @@ import com.ewyboy.bibliotheca.common.loaders.ItemLoader;
 import com.ewyboy.bibliotheca.common.loaders.TileEntityLoader;
 import com.ewyboy.floatingrails.Reference;
 import com.ewyboy.floatingrails.common.Register;
+import com.ewyboy.floatingrails.common.loaders.ConfigLoader;
 import com.ewyboy.floatingrails.common.loaders.RecipeLoader;
 import com.ewyboy.floatingrails.common.world.TheWorldGenerator;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
@@ -26,16 +27,11 @@ public class CommonProxy {
     public void preInit(FMLPreInitializationEvent event) {
         CompatibilityHandler.registerWaila();
         BlockLoader.init(Reference.Info.MODID, Register.Blocks.class);
-        ItemLoader.init(Reference.Info.MODID, Register.Items.class);
-        TileEntityLoader.init(Register.Tiles.class);
         RecipeLoader.loadRecipes();
+        ConfigLoader.init(event.getSuggestedConfigurationFile());
     }
 
     public void init(FMLInitializationEvent event) {
         GameRegistry.registerWorldGenerator(new TheWorldGenerator(), 10);
-    }
-
-    public void postInit(FMLPostInitializationEvent event) {
-
     }
 }

@@ -1,4 +1,4 @@
-package com.ewyboy.floatingrails.common.blocks;
+package com.ewyboy.floatingrails.common.blocks.rails.base;
 
 import com.ewyboy.bibliotheca.common.interfaces.IBlockRenderer;
 import com.ewyboy.bibliotheca.common.loaders.BlockLoader;

@@ -1,7 +1,8 @@
-package com.ewyboy.floatingrails.common.blocks;
+package com.ewyboy.floatingrails.common.blocks.rails;
 
 import com.ewyboy.bibliotheca.common.interfaces.IBlockRenderer;
 import com.ewyboy.bibliotheca.common.loaders.BlockLoader;
+import com.ewyboy.floatingrails.common.blocks.rails.base.BlockFloatingRailBase;
 import com.ewyboy.floatingrails.common.items.ItemFloatingRailLava;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

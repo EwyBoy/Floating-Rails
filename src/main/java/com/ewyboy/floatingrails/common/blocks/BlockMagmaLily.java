@@ -23,7 +23,7 @@ import net.minecraftforge.client.model.ModelLoader;
 public class BlockMagmaLily extends BlockLilyPad implements IBlockRenderer, BlockLoader.IHasCustomItem {
 
     public BlockMagmaLily() {
-        setHardness(50.0f);
+        setHardness(3.0f);
         setResistance(2000.0F);
         setCreativeTab(CreativeTabs.DECORATIONS);
     }

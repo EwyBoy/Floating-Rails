@@ -29,11 +29,6 @@ public class ItemMagmaLily extends ItemBlock {
     }
 
     @Override
-    public boolean canPlaceBlockOnSide(World worldIn, BlockPos pos, EnumFacing side, EntityPlayer player, ItemStack stack) {
-        return side == EnumFacing.UP;
-    }
-
-    @Override
     public ActionResult<ItemStack> onItemRightClick(World world, EntityPlayer player, EnumHand hand) {
         ItemStack itemstack = player.getHeldItem(hand);
         RayTraceResult raytraceresult = this.rayTrace(world, player, true);

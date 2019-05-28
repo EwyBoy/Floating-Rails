@@ -1,6 +1,6 @@
 /*
  * A Gradle plugin for the creation of Minecraft mods and MinecraftForge plugins.
- * Copyright (C) 2013 Minecraft Forge
+ * Copyright (C) 2013-2019 Minecraft Forge
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
@@ -42,13 +42,13 @@ public abstract class GradleStartCommon
     Map<String, String>     argMap        = Maps.newHashMap();
     List<String>            extras        = Lists.newArrayList();
 
-    static final File       SRG_DIR       = new File("C:/Users/Eivind/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20171003/srgs");
-    static final File       SRG_NOTCH_SRG = new File("C:/Users/Eivind/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20171003/1.12.2/srgs/notch-srg.srg");
-    static final File       SRG_NOTCH_MCP = new File("C:/Users/Eivind/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20171003/1.12.2/srgs/notch-mcp.srg");
-    static final File       SRG_SRG_MCP   = new File("C:/Users/Eivind/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20171003/1.12.2/srgs/srg-mcp.srg");
-    static final File       SRG_MCP_SRG   = new File("C:/Users/Eivind/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20171003/1.12.2/srgs/mcp-srg.srg");
-    static final File       SRG_MCP_NOTCH = new File("C:/Users/Eivind/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20171003/1.12.2/srgs/mcp-notch.srg");
-    static final File       CSV_DIR       = new File("C:/Users/Eivind/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20171003");
+    static final File       SRG_DIR       = new File("/Users/eivindnorling/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20170624/srgs");
+    static final File       SRG_NOTCH_SRG = new File("/Users/eivindnorling/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20170624/1.12.2/srgs/notch-srg.srg");
+    static final File       SRG_NOTCH_MCP = new File("/Users/eivindnorling/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20170624/1.12.2/srgs/notch-mcp.srg");
+    static final File       SRG_SRG_MCP   = new File("/Users/eivindnorling/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20170624/1.12.2/srgs/srg-mcp.srg");
+    static final File       SRG_MCP_SRG   = new File("/Users/eivindnorling/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20170624/1.12.2/srgs/mcp-srg.srg");
+    static final File       SRG_MCP_NOTCH = new File("/Users/eivindnorling/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20170624/1.12.2/srgs/mcp-notch.srg");
+    static final File       CSV_DIR       = new File("/Users/eivindnorling/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20170624");
 
     protected abstract void setDefaultArguments(Map<String, String> argMap);
 
@@ -167,7 +167,7 @@ public abstract class GradleStartCommon
             {
                 String value = (String) options.valueOf(key);
                 argMap.put(key, value);
-                if (!"password".equalsIgnoreCase(key))
+                if (!"password".equalsIgnoreCase(key) && !"accessToken".equalsIgnoreCase(key))
                     LOGGER.info(key + ": " + value);
             }
         }

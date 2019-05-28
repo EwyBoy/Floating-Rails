@@ -1,67 +1,66 @@
 Symbol range map extraction starting
-Processing 17 files
-startProcessing "com\ewyboy\floatingrails\FloatingRails.java" md5: fc3716a1e2befbcaf2f75c9484ea164b
-endProcessing "com\ewyboy\floatingrails\FloatingRails.java"
-
-startProcessing "com\ewyboy\floatingrails\Reference.java" md5: 5bd334fdf0cea8410d04c3557006e44b
-endProcessing "com\ewyboy\floatingrails\Reference.java"
-
-startProcessing "com\ewyboy\floatingrails\common\Register.java" md5: 1ef5dd2b738945e3195f6943ef146634
+Processing 16 files
+startProcessing "com/ewyboy/floatingrails/FloatingRails.java" md5: 0ea2bd1964e71ced00aa6620ad19631a
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\Register.java"
+endProcessing "com/ewyboy/floatingrails/FloatingRails.java"
 
-startProcessing "com\ewyboy\floatingrails\common\blocks\BlockFloatingRail.java" md5: 1194fce0d9f47bccb3d929d6367a01e5
+startProcessing "com/ewyboy/floatingrails/Reference.java" md5: 6ce513c673ae7930fda7557c27a9e9a1
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\blocks\BlockFloatingRail.java"
+endProcessing "com/ewyboy/floatingrails/Reference.java"
 
-startProcessing "com\ewyboy\floatingrails\common\blocks\BlockFloatingRailBase.java" md5: 1660ae870368f11f6801f9d69ec36935
+startProcessing "com/ewyboy/floatingrails/common/Register.java" md5: bbd3c8198bdff80d9f4a83f774baf3dd
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\blocks\BlockFloatingRailBase.java"
+endProcessing "com/ewyboy/floatingrails/common/Register.java"
 
-startProcessing "com\ewyboy\floatingrails\common\blocks\BlockFloatingRailLava.java" md5: a6a1a745cc19ba967185b700f039ed4b
+startProcessing "com/ewyboy/floatingrails/common/blocks/BlockMagmaLily.java" md5: 5d6272e11a3943abbd605bba01651fdf
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\blocks\BlockFloatingRailLava.java"
+endProcessing "com/ewyboy/floatingrails/common/blocks/BlockMagmaLily.java"
 
-startProcessing "com\ewyboy\floatingrails\common\blocks\BlockMagmaLily.java" md5: f85b773eb55c3e0a817ef3160d813168
+startProcessing "com/ewyboy/floatingrails/common/blocks/rails/BlockFloatingRail.java" md5: ad7777e5d3426abe392fa55e537f1633
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\blocks\BlockMagmaLily.java"
+endProcessing "com/ewyboy/floatingrails/common/blocks/rails/BlockFloatingRail.java"
 
-startProcessing "com\ewyboy\floatingrails\common\items\ItemFloatingRail.java" md5: 11715a3665473561468cba46bc91e301
+startProcessing "com/ewyboy/floatingrails/common/blocks/rails/BlockFloatingRailLava.java" md5: 7b497df6b8cb5c09843b53b2d8f08865
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\items\ItemFloatingRail.java"
+endProcessing "com/ewyboy/floatingrails/common/blocks/rails/BlockFloatingRailLava.java"
 
-startProcessing "com\ewyboy\floatingrails\common\items\ItemFloatingRailLava.java" md5: cf1f5dc96fac9db2a2aeb9b54d441a46
+startProcessing "com/ewyboy/floatingrails/common/blocks/rails/base/BlockFloatingRailBase.java" md5: 37986626d08c09eae440ab098faeff33
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\items\ItemFloatingRailLava.java"
+endProcessing "com/ewyboy/floatingrails/common/blocks/rails/base/BlockFloatingRailBase.java"
 
-startProcessing "com\ewyboy\floatingrails\common\items\ItemMagmaLily.java" md5: 9d528fc30f7aa42ff550c6f71a6c246f
+startProcessing "com/ewyboy/floatingrails/common/items/ItemFloatingRail.java" md5: 11715a3665473561468cba46bc91e301
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\items\ItemMagmaLily.java"
+endProcessing "com/ewyboy/floatingrails/common/items/ItemFloatingRail.java"
 
-startProcessing "com\ewyboy\floatingrails\common\loaders\ConfigLoader.java" md5: e25ea4389b88cc3b76182a1cffb26b9c
+startProcessing "com/ewyboy/floatingrails/common/items/ItemFloatingRailLava.java" md5: cf1f5dc96fac9db2a2aeb9b54d441a46
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\loaders\ConfigLoader.java"
+endProcessing "com/ewyboy/floatingrails/common/items/ItemFloatingRailLava.java"
 
-startProcessing "com\ewyboy\floatingrails\common\loaders\CreativeTabLoader.java" md5: 01170069326209aa71ad44a738d690f5
+startProcessing "com/ewyboy/floatingrails/common/items/ItemMagmaLily.java" md5: bc2ce04a1e50f6db41d15266c535f4f1
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\loaders\CreativeTabLoader.java"
+endProcessing "com/ewyboy/floatingrails/common/items/ItemMagmaLily.java"
 
-startProcessing "com\ewyboy\floatingrails\common\loaders\RecipeLoader.java" md5: 49c88c89dd620ddbffd35f815486af5a
-endProcessing "com\ewyboy\floatingrails\common\loaders\RecipeLoader.java"
-
-startProcessing "com\ewyboy\floatingrails\common\world\MagmalilyGenerator.java" md5: e03d0aea6550256dac1971c0f5af0dc2
+startProcessing "com/ewyboy/floatingrails/common/loaders/ConfigLoader.java" md5: c6a2f5b388ca8574f80f3968e06ebc9e
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\world\MagmalilyGenerator.java"
+endProcessing "com/ewyboy/floatingrails/common/loaders/ConfigLoader.java"
 
-startProcessing "com\ewyboy\floatingrails\common\world\TheWorldGenerator.java" md5: 36d1acc2c1116bc47179307429e1f7b4
+startProcessing "com/ewyboy/floatingrails/common/loaders/RecipeLoader.java" md5: 49c88c89dd620ddbffd35f815486af5a
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\common\world\TheWorldGenerator.java"
+endProcessing "com/ewyboy/floatingrails/common/loaders/RecipeLoader.java"
 
-startProcessing "com\ewyboy\floatingrails\proxy\ClientProxy.java" md5: 5358261f0bca0c4339cc6fb9553c78c5
+startProcessing "com/ewyboy/floatingrails/common/world/MagmalilyGenerator.java" md5: cc7cb4bf29e7ecce3a18037877d7b972
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\proxy\ClientProxy.java"
+endProcessing "com/ewyboy/floatingrails/common/world/MagmalilyGenerator.java"
 
-startProcessing "com\ewyboy\floatingrails\proxy\CommonProxy.java" md5: 34b647b43bc80781cd280ef6de00c708
+startProcessing "com/ewyboy/floatingrails/common/world/TheWorldGenerator.java" md5: cc12b37a5cc9c0ba7824adcf46d129fd
 Cache Hit!
-endProcessing "com\ewyboy\floatingrails\proxy\CommonProxy.java"
+endProcessing "com/ewyboy/floatingrails/common/world/TheWorldGenerator.java"
+
+startProcessing "com/ewyboy/floatingrails/proxy/ClientProxy.java" md5: c111241005af1bd57c394fa169ae6b3a
+Cache Hit!
+endProcessing "com/ewyboy/floatingrails/proxy/ClientProxy.java"
+
+startProcessing "com/ewyboy/floatingrails/proxy/CommonProxy.java" md5: 89cbb2303ccc17f5d47aacd67c28828e
+Cache Hit!
+endProcessing "com/ewyboy/floatingrails/proxy/CommonProxy.java"
 

@@ -1,12 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0be3ca30-b720-472c-b840-f393dc440eb0" name="Default" comment="" />
+    <list default="true" id="0be3ca30-b720-472c-b840-f393dc440eb0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/gradle.log" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/gradle.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Floating-Rails.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Floating-Rails.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Floating-Rails.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/Floating-Rails.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Floating-Rails.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Floating-Rails.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/makeStart/extracted/GradleStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/makeStart/extracted/GradleStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/makeStart/extracted/net/minecraftforge/gradle/GradleForgeHacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/makeStart/extracted/net/minecraftforge/gradle/GradleForgeHacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/makeStart/extracted/net/minecraftforge/gradle/GradleStartCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/makeStart/extracted/net/minecraftforge/gradle/GradleStartCommon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/makeStart/extracted/net/minecraftforge/gradle/tweakers/AccessTransformerTweaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/makeStart/extracted/net/minecraftforge/gradle/tweakers/AccessTransformerTweaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/makeStart/extracted/net/minecraftforge/gradle/tweakers/CoremodTweaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/makeStart/extracted/net/minecraftforge/gradle/tweakers/CoremodTweaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/blockstates/blockfloatingrail.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/blockstates/blockfloatingrail.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/blockstates/blockfloatingrail_lava.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/blockstates/blockfloatingrail_lava.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/blockstates/blockmagmalily.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/blockstates/blockmagmalily.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/lang/en_us.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/blockmagmalily.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/blockmagmalily.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_curved.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_curved.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_curved_lava.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_curved_lava.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_flat.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_flat.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_flat_lava.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_flat_lava.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_raised_ne.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_raised_ne.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_raised_ne_lava.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_raised_ne_lava.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_raised_sw.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_raised_sw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_raised_sw_lava.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/block/normal_rail_raised_sw_lava.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/item/blockfloatingrail.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/item/blockfloatingrail.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/item/blockfloatingrail_lava.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/item/blockfloatingrail_lava.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/item/blockmagmalily.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/models/item/blockmagmalily.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/textures/blocks/blockfloatingrail.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/textures/blocks/blockfloatingrail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/textures/blocks/blockfloatingrail_lava.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/textures/blocks/blockfloatingrail_lava.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/textures/blocks/blockfloatingrail_lava_turn.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/textures/blocks/blockfloatingrail_lava_turn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/textures/blocks/blockfloatingrail_turn.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/textures/blocks/blockfloatingrail_turn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/textures/blocks/blockmagmalily.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/assets/floatingrails/textures/blocks/blockmagmalily.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/FloatingRails.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/FloatingRails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/Reference$Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/Reference$Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/Register$Blocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/Register$Blocks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/Register$Items.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/Register$Tiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/blocks/BlockFloatingRail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/blocks/BlockFloatingRailBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/blocks/BlockFloatingRailLava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/blocks/BlockMagmaLily.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/blocks/BlockMagmaLily.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/items/ItemFloatingRail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/items/ItemFloatingRail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/items/ItemFloatingRailLava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/items/ItemFloatingRailLava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/items/ItemMagmaLily.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/items/ItemMagmaLily.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/loaders/ConfigLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/loaders/ConfigLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/loaders/CreativeTabLoader$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/loaders/CreativeTabLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/loaders/RecipeLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/loaders/RecipeLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/world/MagmalilyGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/world/MagmalilyGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/world/TheWorldGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/common/world/TheWorldGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/proxy/ClientProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/proxy/ClientProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/proxy/CommonProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/com/ewyboy/floatingrails/proxy/CommonProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/mcmod.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Floating-Rails/pack.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Floating-Rails/pack.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/forge.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/forge.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World-/DIM-1/data/villages_nether.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World-/DIM-1/data/villages_nether.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World-/DIM-1/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World-/DIM-1/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World-/DIM-1/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World-/DIM-1/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World-/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World-/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World-/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World-/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World-/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World-/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World-/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World-/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World-/region/r.0.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World-/region/r.0.1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World-/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World-/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Configs/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Content/Block/FloatingLavaTorch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Content/Block/FloatingTorch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Content/Block/LavaLily.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Content/Item/FloatingLavaTorchSpawner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Content/Item/FloatingTorchSpawner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Content/Item/LavaLilySpawner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Content/Technical/BlocksAndItemInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Content/Technical/BlocksAndItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Crafting/CraftingRecipes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/CreativeTabs/FloatingRailCreativeTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Info/ModInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Main/FloatingRails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Network/ClientProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Network/CommonProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Network/IProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Network/ServerProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/Rail/LavaRails/FloatingActivatedRailLava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/Rail/LavaRails/FloatingDetectorRailLava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/Rail/LavaRails/FloatingPoweredRailLava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/Rail/LavaRails/FloatingRailLava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/Rail/WaterRails/FloatingActivatedRail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/Rail/WaterRails/FloatingDetectorRail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/Rail/WaterRails/FloatingPoweredRail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/Rail/WaterRails/FloatingRail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/RailSpawners/LavaRailsSpawners/FloatingRailLavaSpawner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/RailSpawners/LavaRailsSpawners/FloatingRailLavaSpawnerActivated.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/RailSpawners/LavaRailsSpawners/FloatingRailLavaSpawnerDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/RailSpawners/LavaRailsSpawners/FloatingRailLavaSpawnerPowered.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/RailSpawners/WaterRailsSpawners/FloatingRailSpawner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/RailSpawners/WaterRailsSpawners/FloatingRailSpawnerActivated.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/RailSpawners/WaterRailsSpawners/FloatingRailSpawnerDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/RailSpawners/WaterRailsSpawners/FloatingRailSpawnerPowered.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/Technical/RailInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Rails/Technical/Rails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Render/Renderer/FloatingLavaTorchRender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Render/Renderer/FloatingTorchRender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Render/Technical/RenderIDs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Textures/TexturePath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Utillity/LogHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/WorldGen/LavaLilyGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/WorldGen/WorldGenLavaLily.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/lang/en_us.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/lang/nb_NO.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/lang/no_NO.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/LavaLily.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/Rail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailActivated0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailActivated1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailDetector0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailDetector1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailLava.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailLavaActivated0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailLavaActivated1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailLavaDetector0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailLavaDetector1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailLavaPowered0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailLavaPowered1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailPowered0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailPowered1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailTurn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/RailTurnLava.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/LavaLily.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/Rail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailActivated0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailActivated1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailDetector0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailDetector1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailLava.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailLavaActivated0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailLavaActivated1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailLavaDetector0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailLavaDetector1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailLavaPowered0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailLavaPowered1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailPowered0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailPowered1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailTurn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/items/RailTurnLava.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,116 +207,104 @@
     <breakpoint_rules converted="true" />
     <ui_properties converted="true" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ItemFloatingRail.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/items/ItemFloatingRail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlockMagmaLily.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockMagmaLily.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TheWorldGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/TheWorldGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="22" column="74" lean-forward="false" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RecipeLoader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/loaders/RecipeLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FloatingRails.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/FloatingRails.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Register.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/Register.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MagmalilyGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/MagmalilyGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reference.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Reference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="8" column="59" lean-forward="true" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mcmod.info" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommonProxy.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/proxy/CommonProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+            <state relative-caret-position="135">
+              <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/FloatingRails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Reference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/TheWorldGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/Register.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/MagmalilyGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockMagmaLily.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2241#2242#0" expanded="true" />
+                <element signature="e#2274#2275#0" expanded="true" />
+                <element signature="e#2627#2628#0" expanded="true" />
+                <element signature="e#2673#2674#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/lang/en_us.lang">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/loaders/ConfigLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -177,11 +320,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -206,11 +344,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_curved_lava.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/floatingrails/blockstates/blockfloatingrail_lava.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/ItemMagmaLily.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockMagmaLily.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/Register.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/item/blockfloatingrail_lava.json" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/TheWorldGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/MagmalilyGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/item/blockmagmalily.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/blockmagmalily.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/floatingrails/blockstates/blockmagmalily.json" />
@@ -221,32 +356,29 @@
         <option value="$PROJECT_DIR$/src/main/resources/assets/floatingrails/lang/en_us.lang" />
         <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockFloatingRail.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/items/ItemMagmaLily.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/loaders/ConfigLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/items/ItemFloatingRail.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/items/ItemFloatingRailLava.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockFloatingRailBase.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/proxy/CommonProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/FloatingRails.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Reference.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/loaders/RecipeLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/loaders/ConfigLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/TheWorldGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/MagmalilyGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Reference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockMagmaLily.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/proxy/CommonProxy.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -257,21 +389,10 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,120 +402,24 @@
             </path>
             <path>
               <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Floating-Rails" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Floating-Rails" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Floating-Rails" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Floating-Rails" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="floatingrails" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Floating-Rails" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="floatingrails" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Floating-Rails" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="floatingrails" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="loaders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Floating-Rails" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="floatingrails" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="world" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Floating-Rails" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Floating-Rails" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="floatingrails" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="forgeSrc-1.12.2-14.23.1.2600.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="forgeSrc-1.12.2-14.23.1.2600.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="forgeSrc-1.12.2-14.23.1.2600.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="minecraft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Floating-Rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="forgeSrc-1.12.2-14.23.1.2600.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="minecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="block" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -429,23 +454,24 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Minecraft Client">
+    <configuration default="true" name="&lt;template&gt;" selected="false" type="WebApp">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Minecraft Client" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="GradleStart" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Floating-Rails" />
-      <envs />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method>
-        <option name="BuildArtifacts" enabled="false" />
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -464,23 +490,58 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
-    <configuration name="Minecraft Server" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+    <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Floating-Rails" />
-      <envs />
+      <module name="Floating-Rails_main" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method>
-        <option name="BuildArtifacts" enabled="false" />
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Floating-Rails_main" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Floating-Rails_main" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="Minecraft Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <module name="Floating-Rails" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -499,95 +560,88 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <method>
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method>
+      <module name="Floating-Rails_main" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Floating-Rails_main" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Floating-Rails_main" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
-      <envs />
-      <patterns />
-      <method>
+      <method v="2">
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
+    <configuration default="true" type="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method>
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
         <option name="BuildArtifacts" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" name="&lt;template&gt;" selected="false" type="WebApp">
-      <Host>localhost</Host>
-      <Port>5050</Port>
-    </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.Minecraft Client" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Minecraft Server" />
+    <list>
+      <item itemvalue="Application.Minecraft Client" />
+      <item itemvalue="Application.Minecraft Server" />
     </list>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
-  <component name="SvnConfiguration" maxAnnotateRevisions="500">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="UPDATE_RUN_STATUS" value="false" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="DETECT_NESTED_COPIES" value="true" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -598,493 +652,207 @@
       <updated>1518515528929</updated>
       <workItem from="1518515530239" duration="20453000" />
       <workItem from="1518590727435" duration="1069000" />
+      <workItem from="1559024527327" duration="245000" />
+      <workItem from="1559029762637" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22265000" />
+    <option name="totallyTimeSpent" value="27123000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.112458654" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.157082" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16538037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette " active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16538037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.112458654" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.157082" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.20457797" />
+      <window_info id="Structure" order="5" weight="0.25" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.11183355" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3296582" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32899868" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.16514954" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="right" id="Palette " order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette " active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2061742" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.112458654" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15548456" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.15548456" />
+      <window_info id="Structure" order="5" weight="0.25" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="1" visible="true" weight="0.112458654" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3296582" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.2061742" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="right" id="Palette " order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="2" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600.jar!/assets/minecraft/blockstates/rail.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600.jar!/assets/minecraft/models/block/normal_rail_curved.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600.jar!/assets/minecraft/models/block/normal_rail_flat.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600.jar!/assets/minecraft/models/block/normal_rail_raised_ne.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600.jar!/assets/minecraft/models/block/normal_rail_raised_sw.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/blockstates/blockfloatingrail.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="80" lean-forward="false" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_raised_sw.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_raised_ne.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_flat.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/blockfloatingrail.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/blockfloatingrail_lava_turn.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/item/blockfloatingrail.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_curved.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraft/block/BlockLiquid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="30" column="47" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraft/block/BlockRail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraft/block/BlockRailBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8281">
-          <caret line="189" column="43" lean-forward="true" selection-start-line="189" selection-start-column="43" selection-end-line="189" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_curved_lava.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/blockstates/blockfloatingrail_lava.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_flat_lava.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="60" lean-forward="false" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_raised_ne_lava.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="60" lean-forward="false" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_raised_sw_lava.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="60" lean-forward="false" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraft/item/ItemLilyPad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="82" column="81" lean-forward="false" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/item/blockfloatingrail_lava.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600.jar!/assets/minecraft/models/block/normal_rail_curved.json" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600.jar!/assets/minecraft/models/block/normal_rail_flat.json" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600.jar!/assets/minecraft/models/block/normal_rail_raised_ne.json" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600.jar!/assets/minecraft/models/block/normal_rail_raised_sw.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/blockstates/blockfloatingrail.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_raised_sw.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_raised_ne.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_flat.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/blockfloatingrail.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/blockfloatingrail_lava_turn.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/item/blockfloatingrail.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_curved.json" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraft/block/BlockLiquid.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraft/block/BlockRail.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraft/block/BlockRailBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_curved_lava.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/blockstates/blockfloatingrail_lava.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_flat_lava.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_raised_ne_lava.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/normal_rail_raised_sw_lava.json" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraft/item/ItemLilyPad.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/item/blockfloatingrail_lava.json" />
     <entry file="jar://$PROJECT_DIR$/libs/bibliotheca-1.2.1-1.12.2.jar!/com/ewyboy/bibliotheca/common/world/WorldGenUtilities.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/blockmagmalily.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/item/blockmagmalily.json">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/textures/blocks/blockmagmalily.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/item/blockmagmalily.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/blockmagmalily.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/blockstates/blockmagmalily.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/proxy/ClientProxy.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/loaders/CreativeTabLoader.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraft/block/BlockLilyPad.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pack.mcmeta" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockFloatingRailLava.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/items/ItemMagmaLily.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/items/ItemFloatingRailLava.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockFloatingRail.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockFloatingRailBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/items/ItemFloatingRail.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraftforge/fml/common/Mod.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/loaders/RecipeLoader.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        <state relative-caret-position="195">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/models/block/blockmagmalily.json">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Render/Renderer/FloatingTorchRender.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/proxy/CommonProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="52" lean-forward="true" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        <state relative-caret-position="135">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/blockstates/blockmagmalily.json">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/FloatingRails.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="75">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/proxy/ClientProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Reference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="165">
+          <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/loaders/CreativeTabLoader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/TheWorldGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="495">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraft/block/BlockLilyPad.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/Register.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="43" column="5" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/pack.mcmeta">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/MagmalilyGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="315">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockFloatingRailLava.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockMagmaLily.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="435">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2241#2242#0" expanded="true" />
+            <element signature="e#2274#2275#0" expanded="true" />
+            <element signature="e#2627#2628#0" expanded="true" />
+            <element signature="e#2673#2674#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/floatingrails/lang/en_us.lang">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/items/ItemMagmaLily.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        <state relative-caret-position="90">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/loaders/ConfigLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="375">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/items/ItemFloatingRailLava.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="34" column="64" lean-forward="false" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockFloatingRail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockFloatingRailBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-            <element signature="e#1147#1148#0" expanded="true" />
-            <element signature="e#1540#1541#0" expanded="true" />
-            <element signature="e#1573#1574#0" expanded="true" />
-            <element signature="e#1926#1927#0" expanded="true" />
-            <element signature="e#1953#1954#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/proxy/CommonProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/items/ItemFloatingRail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/blocks/BlockMagmaLily.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2600/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2600-sources.jar!/net/minecraftforge/fml/common/Mod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="137" column="11" lean-forward="false" selection-start-line="137" selection-start-column="11" selection-end-line="137" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/FloatingRails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/Register.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/TheWorldGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="22" column="74" lean-forward="false" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/world/MagmalilyGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/common/loaders/RecipeLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ewyboy/floatingrails/Reference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="8" column="59" lean-forward="true" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-          <folding />
+        <state relative-caret-position="123">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>

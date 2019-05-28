@@ -7,7 +7,6 @@ import java.util.Map;
 import net.minecraftforge.gradle.GradleStartCommon;
 
 import com.google.common.base.Strings;
-import com.google.common.base.Throwables;
 import com.google.gson.GsonBuilder;
 import com.mojang.authlib.Agent;
 import com.mojang.authlib.exceptions.AuthenticationException;
@@ -21,29 +20,29 @@ public class GradleStart extends GradleStartCommon
     {
         // hack natives.
         hackNatives();
-        
+
         // launch
         (new GradleStart()).launch(args);
     }
-    
+
     @Override
     protected String getBounceClass()
     {
         return "net.minecraft.launchwrapper.Launch";
     }
-    
+
     @Override
     protected String getTweakClass()
     {
         return "net.minecraftforge.fml.common.launcher.FMLTweaker";
     }
-    
+
     @Override
     protected void setDefaultArguments(Map<String, String> argMap)
     {
         argMap.put("version",        "1.12.2");
         argMap.put("assetIndex",     "1.12");
-        argMap.put("assetsDir",      "C:/Users/Eivind/.gradle/caches/minecraft/assets");
+        argMap.put("assetsDir",      "/Users/eivindnorling/.gradle/caches/minecraft/assets");
         argMap.put("accessToken",    "FML");
         argMap.put("userProperties", "{}");
         argMap.put("username",        null);
@@ -68,15 +67,15 @@ public class GradleStart extends GradleStartCommon
     private static void hackNatives()
     {
         String paths = System.getProperty("java.library.path");
-        String nativesDir = "C:/Users/Eivind/.gradle/caches/minecraft/net/minecraft/natives/1.12.2";
-        
+        String nativesDir = "/Users/eivindnorling/.gradle/caches/minecraft/net/minecraft/natives/1.12.2";
+
         if (Strings.isNullOrEmpty(paths))
             paths = nativesDir;
         else
             paths += File.pathSeparator + nativesDir;
-        
+
         System.setProperty("java.library.path", paths);
-        
+
         // hack the classloader now.
         try
         {
@@ -100,8 +99,7 @@ public class GradleStart extends GradleStartCommon
         catch (AuthenticationException e)
         {
             LOGGER.error("-- Login failed!  " + e.getMessage());
-            Throwables.propagate(e);
-            return; // dont set other variables
+            throw new RuntimeException(e);
         }
 
         LOGGER.info("Login Succesful!");
@@ -109,7 +107,7 @@ public class GradleStart extends GradleStartCommon
         argMap.put("uuid", auth.getSelectedProfile().getId().toString().replace("-", ""));
         argMap.put("username", auth.getSelectedProfile().getName());
         argMap.put("userType", auth.getUserType().getName());
-        
+
         // 1.8 only apperantly.. -_-
         argMap.put("userProperties", new GsonBuilder().registerTypeAdapter(PropertyMap.class, new PropertyMap.Serializer()).create().toJson(auth.getUserProperties()));
     }

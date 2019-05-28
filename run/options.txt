@@ -1,4 +1,4 @@
-version:1343
+version:1241
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
@@ -85,11 +85,6 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_waila.keybind.wailaconfig:82
-key_waila.keybind.wailadisplay:79
-key_waila.keybind.liquid:80
-key_waila.keybind.recipe:81
-key_waila.keybind.usage:75
 soundCategory_master:0.11258278
 soundCategory_music:0.0
 soundCategory_record:1.0

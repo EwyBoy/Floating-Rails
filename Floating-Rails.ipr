@@ -17,7 +17,6 @@
   <component name="DependencyValidationManager">
     <option name="SKIP_IMPORT_STATEMENTS" value="false"/>
   </component>
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false"/>
   <component name="GradleUISettings">
     <setting name="root"/>
   </component>
@@ -180,6 +179,16 @@
         <w>floatingrail</w>
         <w>floatingrails</w>
         <w>placeable</w>
+      </words>
+    </dictionary>
+    <dictionary name="eivindnorling">
+      <words>
+        <w>bibliotheca</w>
+        <w>blockmagmalily</w>
+        <w>ewyboy</w>
+        <w>magmalily</w>
+        <w>modid</w>
+        <w>overworld</w>
       </words>
     </dictionary>
   </component>

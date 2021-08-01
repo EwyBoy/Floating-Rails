@@ -1,170 +1,485 @@
-[09:25:31] [main/INFO]: Extra: []
-[09:25:31] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, /Users/eivindnorling/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
-[09:25:31] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[09:25:31] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[09:25:31] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
-[09:25:31] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[09:25:31] [main/INFO]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
-[09:25:31] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_211, running on Mac OS X:x86_64:10.14.5, installed at /Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre
-[09:25:31] [main/ERROR]: Apache Maven library folder was not in the format expected. Using default libraries directory.
-[09:25:31] [main/ERROR]: Full: /Users/eivindnorling/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4/maven-artifact-3.5.3.jar
-[09:25:31] [main/ERROR]: Trimmed: /users/eivindnorling/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
-[09:25:31] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[09:25:31] [main/INFO]: Detected deobfuscated environment, loading log configs for colored console logs.
-[09:25:37] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
-[09:25:37] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
-[09:25:37] [main/INFO] [FML]: Searching /Users/eivindnorling/Documents/Development/Mods/Floating-Rails/run/./mods for mods
-[09:25:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
-[09:25:37] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
-[09:25:37] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
-[09:25:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[09:25:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[09:25:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[09:25:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[09:25:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[09:25:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[09:25:44] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
-[09:25:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[09:25:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[09:25:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[09:25:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[09:25:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[09:25:45] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[09:25:47] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player160
-[09:25:52] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
-[09:25:52] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.2
-[09:25:53] [Client thread/INFO] [FML]: -- System Details --
-Details:
-	Minecraft Version: 1.12.2
-	Operating System: Mac OS X (x86_64) version 10.14.5
-	Java Version: 1.8.0_211, Oracle Corporation
-	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 285230560 bytes (272 MB) / 417333248 bytes (398 MB) up to 954728448 bytes (910 MB)
-	JVM Flags: 0 total; 
-	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
-	FML: 
-	Loaded coremods (and transformers): 
-	GL info: ' Vendor: 'Intel Inc.' Version: '2.1 INTEL-12.9.22' Renderer: 'Intel(R) HD Graphics 6000'
-[09:25:53] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2838 Initialized
-[09:25:53] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[09:25:53] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[09:25:53] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
-[09:25:53] [Client thread/INFO] [FML]: Searching /Users/eivindnorling/Documents/Development/Mods/Floating-Rails/run/./mods for mods
-[09:25:55] [Thread-3/INFO] [FML]: Using alternative sync timing : 200 frames of Display.update took 1257551416 nanos
-[09:25:56] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
-[09:25:57] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, floatingrails, bibliotheca] at CLIENT
-[09:25:57] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, floatingrails, bibliotheca] at SERVER
-[09:25:58] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Floating Rails, FMLFileResourcePack:Bibliotheca
-[09:25:58] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
-[09:25:58] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[09:25:58] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[09:25:58] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[09:25:59] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[09:25:59] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[09:25:59] [Client thread/INFO] [Bibliotheca]: [BLOCK]: blockfloatingrail has been registered by Bibliotheca for the mod floatingrails
-[09:25:59] [Client thread/INFO] [Bibliotheca]: [ITEMBLOCK]: blockfloatingrail | floatingrails:blockfloatingrail has been registered by Bibliotheca for the mod floatingrails
-[09:25:59] [Client thread/INFO] [Bibliotheca]: [BLOCK]: blockfloatingrail_lava has been registered by Bibliotheca for the mod floatingrails
-[09:25:59] [Client thread/INFO] [Bibliotheca]: [ITEMBLOCK]: blockfloatingrail_lava | floatingrails:blockfloatingrail_lava has been registered by Bibliotheca for the mod floatingrails
-[09:25:59] [Client thread/INFO] [Bibliotheca]: [BLOCK]: blockmagmalily has been registered by Bibliotheca for the mod floatingrails
-[09:25:59] [Client thread/INFO] [Bibliotheca]: [ITEMBLOCK]: blockmagmalily | floatingrails:blockmagmalily has been registered by Bibliotheca for the mod floatingrails
-[09:25:59] [Client thread/INFO] [FML]: Applying holder lookups
-[09:25:59] [Client thread/INFO] [FML]: Holder lookups applied
-[09:25:59] [Client thread/INFO] [FML]: Applying holder lookups
-[09:25:59] [Client thread/INFO] [FML]: Holder lookups applied
-[09:25:59] [Client thread/INFO] [FML]: Applying holder lookups
-[09:25:59] [Client thread/INFO] [FML]: Holder lookups applied
-[09:25:59] [Client thread/INFO] [FML]: Applying holder lookups
-[09:25:59] [Client thread/INFO] [FML]: Holder lookups applied
-[09:25:59] [Client thread/INFO] [FML]: Injecting itemstacks
-[09:25:59] [Client thread/INFO] [FML]: Itemstack injection complete
-[09:25:59] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[09:26:02] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
-[09:26:02] [Thread-4/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
-[09:26:02] [Thread-4/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[09:26:02] [Thread-4/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
-[09:26:02] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
-[09:26:06] [Client thread/INFO] [FML]: Max texture size: 16384
-[09:26:07] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
-[09:26:09] [Client thread/INFO] [FML]: Applying holder lookups
-[09:26:09] [Client thread/INFO] [FML]: Holder lookups applied
-[09:26:09] [Client thread/INFO] [FML]: Injecting itemstacks
-[09:26:09] [Client thread/INFO] [FML]: Itemstack injection complete
-[09:26:10] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
-[09:26:10] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
-[09:26:11] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
-[09:27:37] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
-[09:27:37] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
-[09:27:37] [Server thread/INFO] [FML.ModTracker]: This world was saved with mod forge version 14.23.1.2600 and it is now at version 14.23.5.2838, things may not work well
-[09:27:37] [Server thread/INFO] [FML.ModTracker]: This world was saved with mod floatingrails version 1.0.0 and it is now at version 2.0.2-1.12.2, things may not work well
-[09:27:37] [Server thread/ERROR] [FML.ModTracker]: This world was saved with mod waila which appears to be missing, things may not work well
-[09:27:37] [Server thread/INFO] [FML.ModTracker]: This world was saved with mod bibliotheca version 1.2.1-1.12.2 and it is now at version 1.3.6-1.12.2, things may not work well
-[09:27:37] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[09:27:38] [Server thread/INFO] [FML]: Applying holder lookups
-[09:27:38] [Server thread/INFO] [FML]: Holder lookups applied
-[09:27:38] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@127f6bee)
-[09:27:38] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[09:27:39] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@127f6bee)
-[09:27:39] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@127f6bee)
-[09:27:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[09:27:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 1%
-[09:27:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 28%
-[09:27:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 62%
-[09:27:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 95%
-[09:27:43] [Server thread/INFO] [FML]: Unloading dimension -1
-[09:27:43] [Server thread/INFO] [FML]: Unloading dimension 1
-[09:27:43] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
-[09:27:50] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
-[09:27:50] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
-[09:27:50] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,bibliotheca@1.3.6-1.12.2,FML@8.0.99.99,forge@14.23.5.2838,mcp@9.42,floatingrails@2.0.2-1.12.2
-[09:27:50] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
-[09:27:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[09:27:50] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@127f6bee)
-[09:27:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player160[local:E:e2bdc115] logged in with entity id 323 at (128.53356651110016, 46.0624843065424, 24.30922236353296)
-[09:27:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player160 joined the game
-[09:27:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player160 has made the advancement [Ice Bucket Challenge]
-[09:27:52] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
-[09:27:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[09:27:52] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player160 has made the advancement [Ice Bucket Challenge]
-[09:27:52] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 12 advancements
-[09:27:52] [pool-2-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@a2ce358[id=691b5991-d81d-336c-9128-6e2de0ef0a95,name=Player160,properties={},legacy=false]
-com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
-	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
-	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3164) [Minecraft.class:?]
-	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_211]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_211]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_211]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_211]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_211]
-[09:27:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/the_nether
-[09:27:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3910ms behind, skipping 78 tick(s)
-[09:28:11] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
-[09:28:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[09:28:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/the_nether
-[09:28:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[09:28:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[09:28:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player160 lost connection: Disconnected
-[09:28:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player160 left the game
-[09:28:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
-[09:28:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[09:28:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[09:28:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/the_nether
-[09:28:13] [Server thread/INFO] [FML]: Unloading dimension 0
-[09:28:13] [Server thread/INFO] [FML]: Unloading dimension -1
-[09:28:13] [Server thread/INFO] [FML]: Applying holder lookups
-[09:28:13] [Server thread/INFO] [FML]: Holder lookups applied
-[09:28:14] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
-[09:28:14] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
-[09:28:14] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
+[01Aug2021 22:15:45.006] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 36.2.2, --assetIndex, 1.16, --assetsDir, C:\Users\Eivin\.gradle\caches\forge_gradle\assets, --version, MOD_DEV, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
+[01Aug2021 22:15:45.010] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_292 by AdoptOpenJDK
+[01Aug2021 22:15:45.389] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[01Aug2021 22:15:45.479] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Eivin/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.2/1cf212283d26f706fd3074318870bebd14d2a9ed/mixin-0.8.2.jar Service=ModLauncher Env=CLIENT
+[01Aug2021 22:15:46.918] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\Eivin\.gradle\caches\forge_gradle\assets, --assetIndex, 1.16, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
+[01Aug2021 22:15:54.988] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Aug2021 22:15:55.733] [Render thread/ERROR] [net.minecraft.client.Minecraft/]: Failed to verify authentication
+com.mojang.authlib.exceptions.AuthenticationUnavailableException: null
+	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.checkPrivileges(YggdrasilSocialInteractionsService.java:97) ~[authlib-2.1.28.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.<init>(YggdrasilSocialInteractionsService.java:40) ~[authlib-2.1.28.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createSocialInteractionsService(YggdrasilAuthenticationService.java:152) ~[authlib-2.1.28.jar:?]
+	at net.minecraft.client.Minecraft.createSocialInteractions(Minecraft.java:551) ~[forge-1.16.5-36.2.2_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:383) ~[forge-1.16.5-36.2.2_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:149) ~[forge-1.16.5-36.2.2_mapped_official_1.16.5-recomp.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_292]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_292]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_292]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_292]
+	at net.minecraftforge.userdev.FMLUserdevClientLaunchProvider.lambda$launchService$0(FMLUserdevClientLaunchProvider.java:52) ~[forge-1.16.5-36.2.2_mapped_official_1.16.5-recomp.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.0.9.jar:?]
+	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:108) [forge-1.16.5-36.2.2_mapped_official_1.16.5-recomp.jar:?]
+[01Aug2021 22:15:55.747] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[01Aug2021 22:15:56.133] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
+[01Aug2021 22:15:57.865] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.2, for MC 1.16.5 with MCP 20210115.111550
+[01Aug2021 22:15:57.869] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.2 Initialized
+[01Aug2021 22:15:57.876] [modloading-worker-13/INFO] [floatingrails/]: Registering content for floatingrails
+[01Aug2021 22:15:57.947] [modloading-worker-13/INFO] [floatingrails/]: [BLOCK]: floating_rail has been registered by Bibliotheca for Floating Rails
+[01Aug2021 22:15:57.948] [modloading-worker-13/INFO] [floatingrails/]: [BLOCK]: magma_lily has been registered by Bibliotheca for Floating Rails
+[01Aug2021 22:15:57.961] [modloading-worker-13/INFO] [floatingrails/]: [ITEM]: floating_rail has been registered by Bibliotheca for Floating Rails
+[01Aug2021 22:15:57.961] [modloading-worker-13/INFO] [floatingrails/]: [ITEM]: magma_lily has been registered by Bibliotheca for Floating Rails
+[01Aug2021 22:15:59.751] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[01Aug2021 22:15:59.830] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
+[01Aug2021 22:15:59.957] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Aug2021 22:16:00.438] [Worker-Main-13/INFO] [bibliotheca/]: [RENDER-TYPE] Loaded in special render type: RenderType[CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], no_transparency, diffuse_lighting[false], shade_model[smooth], alpha[0.5], depth_test[<=], cull[true], lightmap[true], overlay[false], fog, no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], line_width[1.0]], outlineProperty=affects_outline]] for floatingrails:magma_lily
+[01Aug2021 22:16:00.439] [Worker-Main-13/INFO] [bibliotheca/]: [RENDER-TYPE] Loaded in special render type: RenderType[CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], no_transparency, diffuse_lighting[false], shade_model[smooth], alpha[0.5], depth_test[<=], cull[true], lightmap[true], overlay[false], fog, no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], line_width[1.0]], outlineProperty=affects_outline]] for floatingrails:floating_rail
+[01Aug2021 22:16:00.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.2 Target: null
+[01Aug2021 22:16:08.229] [Render thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[01Aug2021 22:16:08.231] [Render thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[01Aug2021 22:16:08.498] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[01Aug2021 22:16:08.534] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[01Aug2021 22:16:08.535] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[01Aug2021 22:16:08.536] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[01Aug2021 22:16:08.537] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[01Aug2021 22:16:08.537] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[01Aug2021 22:16:08.538] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[01Aug2021 22:16:08.921] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[01Aug2021 22:16:08.923] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[01Aug2021 22:16:08.924] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[01Aug2021 22:16:09.485] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[01Aug2021 22:16:16.618] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Aug2021 22:16:16.619] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Aug2021 22:16:16.620] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Aug2021 22:16:16.620] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Aug2021 22:16:16.621] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Aug2021 22:16:16.625] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.2_mapped_official_1.16.5-recomp.jar, bibliotheca-268210-3346785_mapped_official_1.16.5.jar, worldstripper-250603-3341936_mapped_official_1.16.5.jar, main
+[01Aug2021 22:16:18.304] [Render thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[01Aug2021 22:16:19.860] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[01Aug2021 22:16:20.466] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Aug2021 22:16:20.467] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Aug2021 22:16:20.468] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Aug2021 22:16:20.468] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Aug2021 22:16:20.469] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Aug2021 22:16:20.470] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.2_mapped_official_1.16.5-recomp.jar, bibliotheca-268210-3346785_mapped_official_1.16.5.jar, worldstripper-250603-3341936_mapped_official_1.16.5.jar, main
+[01Aug2021 22:16:22.094] [Render thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[01Aug2021 22:16:23.478] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[01Aug2021 22:16:24.260] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Aug2021 22:16:24.295] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.16.5
+[01Aug2021 22:16:24.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Aug2021 22:16:24.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Aug2021 22:16:25.084] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Aug2021 22:16:25.084] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Aug2021 22:16:25.452] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 934 ms
+[01Aug2021 22:16:25.687] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 11, from 10
+[01Aug2021 22:16:26.738] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[01Aug2021 22:16:26.785] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@50ba2e09
+[01Aug2021 22:16:26.801] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dev[local:E:e6d25c2b] logged in with entity id 200 at (39.8954393472521, 64.0, -396.2854525818562)
+[01Aug2021 22:16:26.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[01Aug2021 22:16:27.073] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[01Aug2021 22:16:27.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[01Aug2021 22:16:27.199] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 31 advancements
+[01Aug2021 22:16:27.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[01Aug2021 22:16:27.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[01Aug2021 22:16:30.626] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:30.626] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:30.626] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:16:30.634] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:30.634] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:30.634] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:16:31.042] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.043] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.043] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:16:31.047] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.047] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.047] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:16:31.292] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.292] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.292] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:16:31.302] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.302] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.302] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:16:31.643] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.643] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.643] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.643] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:31.643] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:16:31.643] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:16:32.543] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:32.543] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:32.543] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:16:32.543] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:32.543] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:32.543] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:16:33.793] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:33.793] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:33.793] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:33.793] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:33.793] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:16:33.793] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:16:34.545] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:34.545] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:34.545] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:34.545] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:34.545] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:16:34.545] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:16:37.180] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:37.180] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:37.180] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:16:37.187] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:37.188] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:37.188] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:16:37.531] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:37.531] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:37.531] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:16:37.536] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:37.536] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:37.536] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:16:38.080] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.080] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.080] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:16:38.085] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.085] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.085] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:16:38.432] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.432] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.432] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:16:38.437] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.437] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.437] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:16:38.931] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.931] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.931] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:16:38.935] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.935] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:16:38.935] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:31.542] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:31.542] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:31.542] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:31.542] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:31.542] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:31.542] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:32.093] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.093] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.093] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:32.093] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.093] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.093] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:32.443] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.443] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.443] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.443] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.443] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:32.443] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:32.743] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.743] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.743] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.743] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:32.743] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:32.743] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:33.043] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.043] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.043] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.043] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.043] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:33.043] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:33.342] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.343] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.343] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:33.343] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.343] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.343] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:33.644] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.644] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.644] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.644] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:33.644] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:33.644] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:35.295] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.295] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.295] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.295] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.295] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:35.295] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:35.579] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.579] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.579] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:35.586] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.586] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.586] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:35.879] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.879] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.879] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:35.885] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.886] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:35.886] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:36.079] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.080] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.080] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:36.084] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.085] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.085] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:36.279] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.279] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.279] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:36.285] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.285] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.285] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:36.880] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.880] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.880] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:36.883] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.884] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:36.884] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:37.080] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.080] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.080] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:37.084] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.084] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.084] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:37.231] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.231] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.231] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:37.235] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.235] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.235] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:37.381] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.381] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.381] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:37.385] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.386] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.386] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:37.531] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.531] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.531] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:37.535] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.535] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.535] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:37.730] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.730] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.730] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:37.735] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.735] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.735] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:37.982] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.982] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.982] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:37.986] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.986] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:37.986] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:38.181] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:38.181] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:38.181] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:38.186] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:38.186] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:38.186] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:39.132] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.132] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.132] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:39.136] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.136] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.137] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:39.332] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.332] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.332] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:39.336] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.336] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.336] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:39.731] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.735] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.735] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.735] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.735] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:39.735] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:39.931] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.931] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.931] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:39.934] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.934] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:39.934] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:40.232] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.233] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.233] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:40.235] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.235] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.235] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:40.582] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.582] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.582] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:40.584] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.584] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.584] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:40.783] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.783] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.783] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:40.784] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.785] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.785] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:40.934] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.934] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.934] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:40.934] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.934] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:40.934] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:41.133] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:41.133] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:41.133] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:41.134] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:41.134] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:41.134] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:41.284] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:41.284] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:41.284] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:41.284] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:41.284] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:41.284] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:42.235] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.235] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.235] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:42.238] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.238] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.238] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:42.434] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.434] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.435] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:42.436] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.436] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.436] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:42.686] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.686] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.686] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:42.687] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.687] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.687] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:42.885] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.885] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.885] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.885] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:42.885] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:42.885] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:43.086] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.086] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.086] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:43.098] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.098] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.098] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:43.335] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.336] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.336] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:43.337] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.337] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.337] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:43.586] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.586] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.586] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.586] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:43.586] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.586] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:43.735] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.735] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.735] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:43.735] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.735] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.735] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:43.936] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.936] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.937] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.937] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:43.937] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:43.937] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:44.136] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.136] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.136] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:44.136] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.136] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.136] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:44.336] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.336] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.336] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:44.336] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.337] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.337] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:44.536] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.536] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.536] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.536] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:44.536] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.536] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:44.736] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.736] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.736] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:44.736] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.736] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.736] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:44.936] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.936] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.936] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:44.936] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.936] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:44.936] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:45.137] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.137] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.137] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.137] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.137] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:45.137] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:45.337] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.337] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.337] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.337] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:45.337] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.337] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:45.538] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.538] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.538] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.538] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.538] [Server thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:45.538] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:45.737] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.737] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.737] [Render thread/INFO] [floatingrails/]: RayTrace: FAIL
+[01Aug2021 22:17:45.737] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.737] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:45.737] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:48.490] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:48.490] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:48.490] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:48.490] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:48.490] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:48.490] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:48.689] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:48.689] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:48.689] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:48.689] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:17:48.689] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:48.689] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:49.040] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:49.040] [Render thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:49.040] [Render thread/INFO] [floatingrails/]: RayTrace: SUCCESS
+[01Aug2021 22:17:49.040] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:49.040] [Server thread/INFO] [floatingrails/]: RayTrace: null
+[01Aug2021 22:17:49.040] [Server thread/INFO] [floatingrails/]: RayTrace: CONSUME
+[01Aug2021 22:18:10.940] [Render thread/WARN] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[01Aug2021 22:18:29.278] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[01Aug2021 22:18:29.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[01Aug2021 22:18:29.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[01Aug2021 22:18:29.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[01Aug2021 22:18:30.036] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dev lost connection: Disconnected
+[01Aug2021 22:18:30.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[01Aug2021 22:18:30.043] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[01Aug2021 22:18:30.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Aug2021 22:18:30.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Aug2021 22:18:30.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Aug2021 22:18:30.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[01Aug2021 22:18:30.546] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World (5)): All chunks are saved
+[01Aug2021 22:18:30.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[01Aug2021 22:18:30.547] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Aug2021 22:18:30.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[01Aug2021 22:18:30.548] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Aug2021 22:18:30.562] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World (5)): All chunks are saved
+[01Aug2021 22:18:30.568] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Aug2021 22:18:30.568] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Aug2021 22:18:31.967] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

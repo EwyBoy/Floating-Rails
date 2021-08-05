@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "floatingrails:floating_rail"
+    "floatingrails:floating_rail",
+    "floatingrails:floating_rail_lava"
   ]
 }

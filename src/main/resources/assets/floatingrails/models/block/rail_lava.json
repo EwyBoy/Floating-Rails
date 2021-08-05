@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/rail_flat",
+  "textures": {
+    "rail": "floatingrails:block/floating_rail_lava"
+  }
+}

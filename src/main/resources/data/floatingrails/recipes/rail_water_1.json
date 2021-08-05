@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:lily_pad"},
+    { "item": "minecraft:rail" }
+  ],
+  "result": {
+    "item": "floatingrails:floating_rail",
+    "count": 1
+  }
+}

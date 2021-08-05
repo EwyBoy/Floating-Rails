@@ -43,7 +43,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -106,13 +106,13 @@ key_Open Config:key.keyboard.home
 key_Add Block:key.keyboard.page.up
 key_Remove Block:key.keyboard.page.down
 key_Cycle Profile:key.keyboard.end
-soundCategory_master:0.13860594
+soundCategory_master:0.02152318
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
-soundCategory_hostile:1.0
-soundCategory_neutral:1.0
+soundCategory_hostile:0.2112676
+soundCategory_neutral:0.5070422
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0

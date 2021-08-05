@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/rail_curved",
+  "textures": {
+    "rail": "floatingrails:block/floating_rail_turn_lava"
+  }
+}

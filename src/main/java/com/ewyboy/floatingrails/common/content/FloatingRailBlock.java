@@ -7,18 +7,24 @@ import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.item.BoatEntity;
+import net.minecraft.entity.item.minecart.AbstractMinecartEntity;
 import net.minecraft.fluid.FluidState;
 import net.minecraft.fluid.Fluids;
 import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.math.shapes.EntitySelectionContext;
+import net.minecraft.util.math.shapes.ISelectionContext;
+import net.minecraft.util.math.shapes.VoxelShape;
+import net.minecraft.util.math.shapes.VoxelShapes;
 import net.minecraft.world.IBlockReader;
 import net.minecraft.world.IWorldReader;
 import net.minecraft.world.World;
 import net.minecraft.world.server.ServerWorld;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
 
 public class FloatingRailBlock extends RailBlock implements IHasRenderType, ContentLoader.IHasNoBlockItem {
 
     public FloatingRailBlock() {
-        super(AbstractBlock.Properties.of(Material.DECORATION).noCollission().strength(0.7F).sound(SoundType.METAL));
+        super(AbstractBlock.Properties.of(Material.DECORATION).strength(0.7F).sound(SoundType.METAL));
     }
 
     @Override
@@ -27,6 +33,16 @@ public class FloatingRailBlock extends RailBlock implements IHasRenderType, Cont
         if (world instanceof ServerWorld && entity instanceof BoatEntity) {
             world.destroyBlock(new BlockPos(pos), true, entity);
         }
+    }
+
+    @Override
+    public VoxelShape getCollisionShape(BlockState state, IBlockReader world, BlockPos pos, ISelectionContext ctx) {
+        // Set collision for minecarts to be empty but other entities are still able to walk on it like on lily pads
+        if (ctx.getEntity() instanceof AbstractMinecartEntity) {
+            return VoxelShapes.empty();
+        }
+
+        return super.getCollisionShape(state, world, pos, ctx);
     }
 
     @Override
